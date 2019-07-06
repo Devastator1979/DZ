@@ -29,14 +29,14 @@ class M {
     //    System.out.print(mas1[i] +"  ");
     //}
 public void print(){
-       DZ_shaxmatka.M(int 10,int 10);
+      // DZ_shaxmatka.M(int 10,int 10);
 }
 }
 
 public class Task01 {
 
     public static void main(String arg[]) {
-        print();
+        //print();
     }
 
 }

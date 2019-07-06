@@ -1,8 +1,6 @@
 package DZ_shaxmatka;
 public class Task01 {
     public static void main(String arg[]){
-       //System.out.println(Task01.mas.lenght);
-       //System.out.print(DZ_shaxmatka.Task01.mas());
        pmas(4);
     }
     public static void mas(){

@@ -6,8 +6,7 @@ public class Task01 {
        pmas(8);
     }
     public static void mas(){
-        int [] mas = {0,1,0,1,0,1,0,1};//new int [8];
-        //int mas[] = {0,1,0,1,0,1,0,1};
+        int [] mas = {0,1,0,1,0,1,0,1};
        for (int i = 0; i<mas.length ; i++){
            System.out.print(mas[i] +"  ");
        }

@@ -11,8 +11,10 @@ class M {
             for (int j = 0; j < mas[i].length; j++) {
                 if (i % 2 == 0) {
                     mas[i][j] = 0;
+                    System.out.print(mas[i][j]);
                 } else {
                     mas[i][j] = 1;
+                    System.out.print(mas[i][j]);
                 }
             }
         }
@@ -36,7 +38,12 @@ public void print(){
 public class Task01 {
 
     public static void main(String arg[]) {
-        //print();
+      M mas1 = new  M ();
+      mas1.mas = int [10][10];
+      //for (int i = 0; i<M.mas.length ; i++){
+    //    System.out.print(mas1[i] +"  ");
+      //}
+    //print();
     }
 
 }

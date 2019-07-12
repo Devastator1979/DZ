@@ -20,7 +20,6 @@ class M {
         }
     }
 public void print(){
-      // DZ_shaxmatka.M(int 10,int 10);
        for (int i = 0; i < mas.length; i++) {
            for (int j = 0; j < mas[i].length; j++) {
                System.out.print(mas[i][j] + "  ");
